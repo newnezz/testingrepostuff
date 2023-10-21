@@ -1,0 +1,19 @@
+/* 
+Center things
+background color
+change the font
+*/
+
+body {
+    background-color: rgb(58, 104, 11);
+    margin: 0 auto;
+    max-width: 700px;
+    font-family: 'Press Start 2P';
+}
+
+img {
+    border-radius: 8px;
+    border: 5px solid black;
+    width: 75%;
+    height: 75%;
+}
